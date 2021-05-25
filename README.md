@@ -1,5 +1,5 @@
 # Property_Tax_Appeals
-A course final group project. 
+Modeling for Cook County Property Tax Appeals Assessment
 
 ### Understanding of background
 Appeals are built into the property tax system in Cook County: after the assessment, property owners can appeal, and they stand a chance of having their assessment revised. 
